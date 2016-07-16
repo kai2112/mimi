@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_search"
+        android:title="検索" />
+    <item
+        android:id="@+id/menu_reload"
+        android:title="更新" />
+    <item
+        android:id="@+id/menu_settings"
+        android:title="設定" />
+</menu>

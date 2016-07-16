@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mimi</string>
+    <string name="tab_pickup">ピックアップ</string>
+    <string name="tab_nail">ネイル</string>
+    <string name="tab_hair">ヘアチェンジ</string>
+
+    <string name="pickup_text">today\'s pickup</string>
+</resources>
